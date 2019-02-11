@@ -1,0 +1,20 @@
+.Content {
+  flex: 1;
+  padding: 20px;
+}
+
+.Content-Title {
+  font-size: 26px;
+  font-weight: normal;
+  margin: 0;
+}
+
+.Results {
+  color: #999;
+  margin-left: 10px;
+}
+
+.Results-Description {
+  font-size: 12px;
+  font-family: sans-serif;
+}

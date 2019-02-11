@@ -1,0 +1,44 @@
+.Gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.Shoe {
+  width: 220px;
+  overflow: hidden;
+}
+
+.Shoe {
+  margin-bottom: 45px;
+}
+
+.Shoe hr {
+  border: 0;
+  border-bottom: 1px solid #CCC;
+  margin: 0;
+}
+
+.Shoe-Color {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 11px;
+}
+
+.Shoe-Title {
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  margin-top: 5px;
+  display: block;
+  color: #222;
+}
+
+.Shoe-Type,
+.Shoe-Price {
+  color: #666;
+  font-size: 12px;
+  font-family: sans-serif;
+  display: block;
+}

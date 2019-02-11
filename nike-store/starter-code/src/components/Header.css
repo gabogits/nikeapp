@@ -1,0 +1,21 @@
+.Menu {
+  height: 69px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 1px solid #E5E5E5;
+}
+
+.MenuList {
+  padding-left: 0;
+  margin: 0;
+  list-style-type: none;
+  display: flex;
+}
+
+.MenuItem {
+  font-size: 16px;
+  text-transform: uppercase;
+  
+  margin: 0 6px;
+}
